@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### my name is Ajdin Nakicevic
+### I like to build stuff
 
 <!--
 **ajdin-n/ajdin-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
